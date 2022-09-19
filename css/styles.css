@@ -1,0 +1,25 @@
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 95%;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.texto-inicial {
+    text-align: center;
+    width: 45%;
+    margin: 30px auto;
+    font-size: 20px; 
+}
+
+.enlace-inicial {
+    color: black;
+    font-size: 20px;
+    width: 45%;
+    display: block;
+    margin:30px auto;
+}
